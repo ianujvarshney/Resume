@@ -1,0 +1,222 @@
+{
+  "selectedTemplate": 2,
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "location": "Mohali, Chandigarh, IN",
+      "studyType": "MCA",
+      "area": "Computer Science",
+      "startDate": "Aug 2022",
+      "endDate": "Apr 2024"
+    },
+    {
+      "institution": "DR. BR Ambedkar University",
+      "location": "Mathura, UP, IN",
+      "studyType": "BCA",
+      "area": "Computer Science",
+      "startDate": "Aug 2018",
+      "endDate": "Mar 2022"
+    }
+  ],
+  "work": [
+    {
+      "company": "Inriser Consulting Private Limited",
+      "position": "Full Stack Developer",
+      "location": "Noida, U.P, India",
+      "startDate": "Nov 2025",
+      "endDate": "Present",
+      "highlights": [
+        "Built and optimized real-time market data pipelines using WebSockets and binary parsers for live stock data including LTP, depth, and OI.",
+        "Implemented low-latency index calculation services using Redis to improve real-time processing speed and reduce database load.",
+        "Designed and maintained a scalable Order Management System (OMS) with PostgreSQL and TimescaleDB for time-series storage and analytics.",
+        "Developed admin APIs for KYC, subscriptions, and system monitoring with secure JWT authentication, IP logging, and device tracking.",
+        "Improved platform reliability and security through production-ready backend architecture, validation, and monitoring workflows."
+      ]
+    },
+    {
+      "company": "All Digital",
+      "position": "MERN Stack Developer | Blockchain Enthusiastic",
+      "location": "Remote",
+      "startDate": "May 2024",
+      "endDate": "Jan 2025",
+      "highlights": [
+        "Built decentralized applications (DApps) using Next.js, TypeScript, GraphQL, and Web3.js with wallet integrations such as MetaMask, WalletConnect, and Wagmi.",
+        "Developed backend systems using MongoDB, Mongoose, Node.js, and Express to support secure and scalable application workflows.",
+        "Conducted smart contract audits and improvements using Solidity, Hardhat, Ethers.js, and The Graph to enhance security and transaction reliability.",
+        "Designed responsive user interfaces using Chakra UI, Tailwind CSS, Framer Motion, and React Hook Form with Yup validations.",
+        "Maintained code quality and build consistency using ESLint, Prettier, Husky, and Lint-Staged.",
+        "Managed modern Next.js project setup with static export strategies, sitemap generation, and reusable layout systems."
+      ]
+    },
+    {
+      "company": "QHR Solution",
+      "position": "MERN Stack Developer",
+      "location": "Mathura, UP",
+      "startDate": "Aug 2023",
+      "endDate": "Apr 2024",
+      "highlights": [
+        "Resolved 50+ critical bugs in SaaS applications, improving overall application performance by 30%.",
+        "Designed and developed RESTful APIs using Node.js and Express.js for products, users, and transaction workflows.",
+        "Created secure CRUD APIs with validation, authentication, and error handling for product modules.",
+        "Optimized MongoDB models and queries to improve fast and reliable data retrieval for business logic.",
+        "Improved UI responsiveness and mobile-first behavior across cloud-based SaaS platforms."
+      ]
+    },
+    {
+      "company": "iQuincesoft Pvt Ltd.",
+      "position": "React Developer",
+      "location": "Mathura, UP",
+      "startDate": "Dec 2021",
+      "endDate": "Jul 2023",
+      "highlights": [
+        "Delivered 4+ client projects with a focus on bug-free functionality and improved user satisfaction.",
+        "Implemented reusable React components that improved code maintainability by 25%.",
+        "Collaborated with stakeholders to align product features with business goals and delivery timelines."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "Python"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "keywords": [
+        "React.js",
+        "Next.js",
+        "Redux",
+        "Bootstrap",
+        "Tailwind CSS",
+        "Chakra UI",
+        "Framer Motion"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "GraphQL",
+        "Socket.io",
+        "OAuth/SSO",
+        "JWT",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "keywords": [
+        "MongoDB",
+        "Mongoose",
+        "PostgreSQL",
+        "Redis",
+        "TimescaleDB"
+      ]
+    },
+    {
+      "name": "Blockchain & Web3",
+      "keywords": [
+        "Solidity",
+        "Web3.js",
+        "Ethers.js",
+        "Wagmi",
+        "MetaMask",
+        "WalletConnect",
+        "Hardhat",
+        "Remix",
+        "Infura",
+        "The Graph"
+      ]
+    },
+    {
+      "name": "DevOps & Tools",
+      "keywords": [
+        "GitHub",
+        "GitLab",
+        "CI/CD",
+        "Docker",
+        "AWS",
+        "Jira",
+        "Asana",
+        "Firebase",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Engineering Practices",
+      "keywords": [
+        "SSR",
+        "CSR",
+        "SSG",
+        "ISR",
+        "Agile Development",
+        "System Design",
+        "Performance Optimization",
+        "Scalable Applications",
+        "Clean Code",
+        "Responsive Design",
+        "Version Control",
+        "Testing & Debugging"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "RONX | NEXT",
+      "description": "Unlock Financial Freedom with Smart Contracts",
+      "url": "https://anuj-varshney.vercel.app/"
+    },
+    {
+      "name": "TEMPO | REACT",
+      "description": "Create Your Events",
+      "url": "https://tempo.live/"
+    },
+    {
+      "name": "IQUINCESOFT | REACT",
+      "description": "Company Official Web App",
+      "url": "https://iquincesoft.com/"
+    },
+    {
+      "name": "CARITAS REVOLUTION | REACT",
+      "description": "Charity Revolution Platform with React",
+      "url": "https://caritasrevolution.org/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "HACKERRANK, CP & OPEN SOURCE",
+      "summary": "5-Star Coder on HackerRank in C++, with 200+ DSA problems solved on Codeforces and CodeChef. Contributed to Hacktoberfest 2020 for open-source projects."
+    }
+  ],
+  "basics": {
+    "name": "Anuj Varshney",
+    "email": "Anuj.varshneyg@gmail.com",
+    "phone": "07906551325",
+    "location": {
+      "address": "New Delhi, India"
+    },
+    "website": "https://anuj-varshney.vercel.app/"
+  },
+  "headings": {
+    "education": "EDUCATION",
+    "work": "EXPERIENCE",
+    "skills": "SKILLS",
+    "projects": "PROJECTS",
+    "awards": "AWARDS & CERTIFICATIONS"
+  },
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
